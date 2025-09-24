@@ -22,7 +22,3 @@ git clone https://github.com/seu-usuario/dashboard-contratos.git
 cd dashboard-contratos
 pip install -r requirements.txt
 streamlit run app.py  
-
-📌 Sobre o Autor
-
-Desenvolvido por Guilherme Georgetti, Engenheiro de Produção com experiência em Python, Data Analytics e Automação de Processos.
