@@ -22,6 +22,7 @@ git clone https://github.com/seu-usuario/dashboard-contratos.git
 cd dashboard-contratos
 pip install -r requirements.txt
 streamlit run app.py
+```bash
 
 📌 Sobre o Autor
 
