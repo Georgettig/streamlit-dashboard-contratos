@@ -16,11 +16,11 @@ Este projeto é um **dashboard interativo em Streamlit** para análise de contra
 
 📌 Sobre o Autor
 
-Desenvolvido por Guilherme Georgetti, Engenheiro de Produção com experiência em Python, Data Analytics e Automação de Processos.
+- Desenvolvido por Guilherme Georgetti, Engenheiro de Produção com experiência em Python, Data Analytics e Automação de Processos.  
 
 🚀 Como rodar localmente
 
-Clone este repositório:
+- Clone este repositório:
 ```bash
 git clone https://github.com/seu-usuario/dashboard-contratos.git
 cd dashboard-contratos
