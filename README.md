@@ -14,6 +14,10 @@ Este projeto é um **dashboard interativo em Streamlit** para análise de contra
 - Python 3.10+
 - Bibliotecas: Streamlit, Plotly, Pandas
 
+📌 Sobre o Autor
+
+Desenvolvido por Guilherme Georgetti, Engenheiro de Produção com experiência em Python, Data Analytics e Automação de Processos.
+
 🚀 Como rodar localmente
 
 Clone este repositório:
