@@ -20,7 +20,7 @@ Este projeto é um **dashboard interativo em Streamlit** para análise de contra
 
 🚀 Como rodar localmente
 
-- Clone este repositório:
+Clone este repositório:
 ```bash
 git clone https://github.com/seu-usuario/dashboard-contratos.git
 cd dashboard-contratos
