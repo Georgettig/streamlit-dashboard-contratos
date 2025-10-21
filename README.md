@@ -24,7 +24,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Como funciona:
-- A página principal possui os indicadores que mostram 
+🌐 Como funciona:
+- A página principal apresenta indicadores que exibem o número total de contratos, bem como a quantidade de contratos ativos, vencidos e próximos do vencimento. Além disso, conta com filtros interativos na barra lateral, que se conectam diretamente ao dataframe contendo todos os dados, permitindo ao usuário selecionar os critérios desejados e visualizar as informações de acordo com suas necessidades.
 <img width="1356" height="617" alt="contratos1" src="https://github.com/user-attachments/assets/0a118154-46e2-4991-a4f2-b8966753292a" />
+
+- A página secundária chamada "
 
