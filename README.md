@@ -31,7 +31,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🌐 Estrutura e funcionamento
+🌐 Estrutura e funcionamento  
 🏠 Página Principal
 
 Apresenta indicadores com o número total de contratos, além da quantidade de contratos ativos, vencidos e próximos do vencimento.
