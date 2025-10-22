@@ -1,11 +1,8 @@
 import pandas as pd
-import locale
 from database import df
 
 ordem_meses = ['Janeiro','Fevereiro','Marco','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro',
                'Novembro','Dezembro']
-
-locale.setlocale(locale.LC_TIME, "pt_BR.UTF-8")
 
 # Status dos Contratos
 df_status = df['Status'].value_counts().reset_index(name='Quantidade')
